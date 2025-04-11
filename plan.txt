@@ -1,0 +1,132 @@
+Monday, April 7th, 2025 - No Gym
+
+9:00 AM → 10:15 AM: Sebastian project [1701] (Theory - Final Rates)
+10:15 AM → 10:30 AM: Break (15 min)
+10:30 AM → 11:45 AM: Learning Theory [1707] (First Topic)
+11:45 AM → 12:00 PM: Break (15 min)
+12:00 PM → 1:00 PM: Lunch Break (1 hour)
+1:00 PM → 2:15 PM: Sebastian project [1702] (Empirical - Plots/Experiments)
+2:15 PM → 2:30 PM: Break (15 min)
+2:30 PM → 3:45 PM: Empty Slot (Flex Time)
+3:45 PM → 4:00 PM: Break (15 min)
+4:00 PM → 5:15 PM: Learning Statistical Mechanic [1704] (First Chapter)
+5:15 PM → 5:30 PM: Break (15 min)
+5:30 PM → 6:45 PM: Sebastian project [1701] (Theory - Final Rates)
+Total Productive Time: 7.5 hours (6 tb)
+
+[Difficulty Score from 10]: [7]
+Tuesday, April 8th, 2025 - Gym Day
+
+9:00 AM → 10:15 AM: Sebastian project [1702] (Empirical - Plots/Experiments)
+10:15 AM → 10:30 AM: Break (15 min)
+10:30 AM → 11:45 AM: Sebastian project [1701] (Theory - Final Rates)
+11:45 AM → 12:00 PM: Break (15 min)
+12:00 PM → 1:00 PM: Lunch Break (1 hour)
+1:00 PM → 2:15 PM: Learning Theory [1707] (First Topic)
+2:15 PM → 2:30 PM: Break (15 min)
+2:30 PM → 3:45 PM: Empty Slot (Flex Time)
+3:45 PM → 4:00 PM: Break (15 min)
+4:00 PM → 5:15 PM: Sebastian project [1702] (Empirical - Plots/Experiments)
+5:15 PM → 5:30 PM: Break (15 min)
+5:30 PM → 6:45 PM: Sebastian project [1701] (Theory - Final Rates)
+6:45 PM → 8:30 PM: Relax / Prepare for Gym
+8:30 PM → 10:00 PM: Gym Session
+Total Productive Time: 7.5 hours (6 tb)
+
+[Difficulty Score from 10]: [8]
+Wednesday, April 9th, 2025 - No Gym
+
+9:00 AM → 10:15 AM: Learning Statistical Mechanic [1704] (First Chapter)
+10:15 AM → 10:30 AM: Break (15 min)
+10:30 AM → 11:45 AM: Sebastian project [1701] (Theory - Final Rates)
+11:45 AM → 12:00 PM: Break (15 min)
+12:00 PM → 1:00 PM: Lunch Break (1 hour)
+1:00 PM → 2:15 PM: Sebastian project [1702] (Empirical - Plots/Experiments)
+2:15 PM → 2:30 PM: Break (15 min)
+2:30 PM → 3:45 PM: Empty Slot (Flex Time)
+3:45 PM → 4:00 PM: Break (15 min)
+4:00 PM → 5:15 PM: Learning Theory [1707] (First Topic)
+5:15 PM → 5:30 PM: Break (15 min)
+5:30 PM → 6:45 PM: Sebastian project [1701] (Theory - Final Rates)
+Total Productive Time: 7.5 hours (6 tb)
+
+[Difficulty Score from 10]: [7]
+Thursday, April 10th, 2025 - Gym Day
+
+9:00 AM → 10:15 AM: Sebastian project [1702] (Empirical - Plots/Experiments)
+10:15 AM → 10:30 AM: Break (15 min)
+10:30 AM → 11:45 AM: Sebastian project [1701] (Theory - Final Rates)
+11:45 AM → 12:00 PM: Break (15 min)
+12:00 PM → 1:00 PM: Lunch Break (1 hour)
+1:00 PM → 2:15 PM: General Thinking [1706] (Map Questions)
+2:15 PM → 2:30 PM: Break (15 min)
+2:30 PM → 3:45 PM: Empty Slot (Flex Time)
+3:45 PM → 4:00 PM: Break (15 min)
+4:00 PM → 5:15 PM: Sebastian project [1702] (Empirical - Plots/Experiments)
+5:15 PM → 5:30 PM: Break (15 min)
+5:30 PM → 6:45 PM: Sebastian project [1701] (Theory - Final Rates)
+6:45 PM → 8:30 PM: Relax / Prepare for Gym
+8:30 PM → 10:00 PM: Gym Session
+Total Productive Time: 7.5 hours (6 tb)
+
+[Difficulty Score from 10]: [8]
+Friday, April 11th, 2025 - No Gym
+
+9:00 AM → 10:15 AM: Sebastian project [1701] (Theory - Final Rates)
+10:15 AM → 10:30 AM: Break (15 min)
+10:30 AM → 11:45 AM: Learning Theory [1707] (First Topic - Final Block for week)
+11:45 AM → 12:00 PM: Break (15 min)
+12:00 PM → 1:00 PM: Lunch Break (1 hour)
+1:00 PM → 2:15 PM: Sebastian project [1702] (Empirical - Plots/Experiments)
+2:15 PM → 2:30 PM: Break (15 min)
+2:30 PM → 3:45 PM: Empty Slot (Flex Time)
+3:45 PM → 4:00 PM: Break (15 min)
+4:00 PM → 5:15 PM: Sebastian project [1701] (Theory - Final Rates)
+5:15 PM → 5:30 PM: Break (15 min)
+5:30 PM → 6:45 PM: Sebastian project [1702] (Empirical - Plots/Experiments)
+Total Productive Time: 7.5 hours (6 tb)
+
+[Difficulty Score from 10]: [7]
+Saturday, April 12th, 2025 - Gym Day
+
+9:00 AM → 10:15 AM: Sebastian project [1702] (Empirical - Plots/Experiments)
+10:15 AM → 10:30 AM: Break (15 min)
+10:30 AM → 11:45 AM: Sebastian project [1701] (Theory - Final Rates)
+11:45 AM → 12:00 PM: Break (15 min)
+12:00 PM → 1:00 PM: Lunch Break (1 hour)
+1:00 PM → 2:15 PM: Learning Statistical Mechanic [1704] (First Chapter - Final Block for week)
+2:15 PM → 2:30 PM: Break (15 min)
+2:30 PM → 3:45 PM: Empty Slot (Flex Time)
+3:45 PM → 4:00 PM: Break (15 min)
+4:00 PM → 5:15 PM: Sebastian project [1702] (Empirical - Plots/Experiments)
+5:15 PM → 5:30 PM: Break (15 min)
+5:30 PM → 6:45 PM: Sebastian project [1701] (Theory - Final Rates)
+6:45 PM → 8:30 PM: Relax / Prepare for Gym
+8:30 PM → 10:00 PM: Gym Session
+Total Productive Time: 7.5 hours (6 tb)
+
+[Difficulty Score from 10]: [8]
+Sunday, April 13th, 2025 - No Gym
+
+9:00 AM → 10:15 AM: Sebastian project [1701] (Theory - Final Rates)
+10:15 AM → 10:30 AM: Break (15 min)
+10:30 AM → 11:45 AM: Sebastian project [1702] (Empirical - Plots/Experiments)
+11:45 AM → 12:00 PM: Break (15 min)
+12:00 PM → 1:00 PM: Lunch Break (1 hour)
+1:00 PM → 2:15 PM: Sebastian project [1701] (Theory - Final Rates)
+2:15 PM → 2:30 PM: Break (15 min)
+2:30 PM → 3:45 PM: Empty Slot (Flex Time)
+3:45 PM → 4:00 PM: Break (15 min)
+4:00 PM → 5:15 PM: Sebastian project [1702] (Empirical - Plots/Experiments)
+5:15 PM → 5:30 PM: Break (15 min)
+5:30 PM → 6:45 PM: Sebastian project [1701] (Theory - Final Rates)
+Total Productive Time: 7.5 hours (6 tb)
+
+[Difficulty Score from 10]: [7]
+#> Progress Notes (Week April 7th - April 13th):
+#> [1701] Sebastian - Theory: (Target: TBD tb/week | Planned: 17 tb) Progress: 0% -> X%
+#> [1702] Sebastian - Empirical: (Target: TBD tb/week | Planned: 19 tb) Progress: 0% -> X%
+#> [1706] General Thinking: (Target: 1 tb/week | Planned: 1 tb) Progress: 0% -> X%
+#> [1707] Learning Theory: (Target: 3 tb/week | Planned: 3 tb) Progress: 0% -> X%
+#> [1704] Learning Stat Mech: (Target: 2 tb/week | Planned: 2 tb) Progress: 0% -> X%
+#> Gym Sessions: (Target: >=3 | Planned: 3 - Tue, Thu, Sat)
